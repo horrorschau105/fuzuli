@@ -9,7 +9,7 @@ python3 main.py 4 2
 ```
 which gives you 6x6 grid, as in example.
 
-After pressing the button _Generate_, program creates file **prolog_script.pl**, which you need to run with command:
+After pressing the button _Generate_, program creates file **prolog_output.pl**, which you need to run with command:
 ```
 swipl prolog_script.pl
 ```
